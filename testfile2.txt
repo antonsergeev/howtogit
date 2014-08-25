@@ -1,4 +1,0 @@
-This is the second testfile
-And don't worry, please!
-
-# Another comment
